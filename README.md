@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faisal4z
 - 👀 I’m interested in web and app development
-- 🌱 I'm currently focusing on MERN stack development
+- 🌱 I'm currently focusing on PERN stack development
 
 
 
